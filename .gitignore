@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+graficos_gerados/
+dados/afazeres_tratado.csv
+.venv/

@@ -1,0 +1,408 @@
+Tabela 1.1 - Horas semanais dedicadas a afazeres domésticos (FICTÍCIO)
+Fonte: dados simulados para estudo
+Unidade da Federação;Região;Ano;Sexo;Cor ou raça;Grupo de idade;Condição de ocupação;Horas semanais
+MS;Centro-Oeste;2016;Mulheres;Branca;14 a 24 anos;Desocupada;24,8
+PI;Nordeste;2017;Homens;Preta ou parda;14 a 24 anos;Desocupada;7,8
+MS;Centro-Oeste;2019;Homens;Branca;50 anos ou mais;Ocupada;12,7
+MT;Centro-Oeste;2019;Mulheres;Branca;25 a 49 anos;Ocupada;...
+ES;Sudeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;17,2
+MS;Centro-Oeste;2019;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,5
+AM;Norte;2018;Mulheres;Branca;25 a 49 anos;Desocupada;23,7
+ ba;Sul;2017;Homens;Preta ou parda;50 anos ou mais;Ocupada;12,3
+Pe ;Sul;2022;Mulheres;Branca;50 anos ou mais;Desocupada;25,7
+AL;Nordeste;2016;mulheres;Preta ou parda;14 a 24 anos;Ocupada;21,3
+AL;Nordeste;2018;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;-
+ES;Sudeste;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;23,5
+SE;Nordeste;2018;Homens;Branca;25 a 49 anos;Ocupada;12,0
+PR;Sul;2016;Homens;Preta ou parda;50 anos ou mais;Desocupada;11,7
+AP;Norte;2017;Homens;Preta ou parda;14 a 24 anos;Ocupada;5,5
+ES;Sudeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;26,8
+MT;Centro-Oeste;2019;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;22,7
+RO;Norte;2017;Homens;Branca;14 a 24 anos;Desocupada;10,8
+DF;Centro-Oeste;2017;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,1
+SC;Sul;2017;Homens;Branca;25 a 49 anos;Ocupada;10,7
+AP;Norte;2016;Homens;Branca;25 a 49 anos;Desocupada;
+RR;Norte;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;28,3
+CE;Nordeste;2022;Mulheres;Branca;25 a 49 anos;Desocupada;23,8
+AM;Norte;2017;Homens;Branca;50 anos ou mais;Desocupada;13,0
+AL;Nordeste;2018;Homens;Branca;25 a 49 anos;Ocupada;11,4
+RO;Norte;2019;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;18,8
+RR;Norte;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;25,4
+SC;Sul;2017;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,4
+MT;Centro-Oeste;2018;Homens;Preta ou parda;25 a 49 anos;Ocupada;9,9
+AC;Norte;2022;Mulheres;Branca;25 a 49 anos;Desocupada;24,3
+MA;Nordeste;2016;Homens;Branca;50 anos ou mais;Desocupada;15,1
+SP;Sudeste;2016;Homens;Branca;25 a 49 anos;Ocupada;12,9
+PA;Norte;2016;Homens;Preta ou parda;50 anos ou mais;Desocupada;12,8
+AC;Norte;2016;Homens;Branca;14 a 24 anos;Desocupada;10,3
+SC;Sul;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,4
+BA;Nordeste;2017;Mulheres;Branca;50 anos ou mais;Ocupada;23,6
+CE;Nordeste;2016;Mulheres;Branca;14 a 24 anos;Ocupada;17,6
+PA;Norte;2022;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;22,1
+AC;Norte;2022;Mulheres;Branca;25 a 49 anos;Ocupada;20,2
+AP;Norte;2016;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,9
+AC;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,8
+RR;Norte;2016;Homens;Branca;14 a 24 anos;Desocupada;11,6
+BA;Nordeste;2017;Mulheres;Branca;25 a 49 anos;Desocupada;26,8
+RO;Norte;2022;Mulheres;Branca;14 a 24 anos;Ocupada;16,6
+PE;Nordeste;2018;Homens;Preta ou parda;25 a 49 anos;Desocupada;12,3
+CE;Nordeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,0
+RO;Norte;2018;Homens;Branca;50 anos ou mais;Ocupada;12,8
+MS;Centro-Oeste;2022;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,8
+MS;Centro-Oeste;2018;Homens;Branca;25 a 49 anos;Desocupada;12,0
+PI;Nordeste;2019;Homens;Branca;25 a 49 anos;Desocupada;11,6
+ES;Sudeste;2016;Homens;Branca;50 anos ou mais;Ocupada;10,0
+MT;Centro-Oeste;2017;Homens;Branca;50 anos ou mais;Ocupada;13,2
+RJ;Sudeste;2016;Homens;Branca;25 a 49 anos;Desocupada;10,3
+ES;Sudeste;2018;Mulheres;Branca;25 a 49 anos;Desocupada;22,9
+TO;Norte;2016;Mulheres;Branca;50 anos ou mais;Ocupada;22,9
+SC;Sul;2017;Homens;Preta ou parda;50 anos ou mais;Ocupada;11,9
+DF;Centro-Oeste;2017;Homens;Branca;50 anos ou mais;Ocupada;12,3
+RR;Norte;2022;Homens;Branca;14 a 24 anos;Desocupada;9,4
+AC;Norte;2019;Mulheres;Branca;25 a 49 anos;Desocupada;24,6
+PI;Nordeste;2022;Homens;Branca;14 a 24 anos;Desocupada;11,2
+PE;Nordeste;2016;Homens;Preta ou parda;14 a 24 anos;Desocupada;9,4
+AL;Nordeste;2017;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,8
+CE;Nordeste;2018;Homens;Branca;25 a 49 anos;Ocupada;11,1
+BA;Nordeste;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,0
+MS;Centro-Oeste;2017;Homens;Preta ou parda;50 anos ou mais;Desocupada;14,5
+TO;Norte;2018;Homens;Branca;50 anos ou mais;Ocupada;11,2
+MT;Centro-Oeste;2019;Mulheres;Branca;50 anos ou mais;Ocupada;22,3
+MA;Nordeste;2016;Homens;Branca;50 anos ou mais;Ocupada;12,5
+AM;Norte;2022;Homens;Branca;25 a 49 anos;Ocupada;12,0
+PA;Norte;2019;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,4
+SC;Sul;2019;Homens;Preta ou parda;25 a 49 anos;Ocupada;11,1
+MT;Centro-Oeste;2017;Mulheres;Branca;25 a 49 anos;Ocupada;18,8
+RJ;Sudeste;2016;Mulheres;Branca;25 a 49 anos;Ocupada;21,2
+AC;Norte;2017;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,8
+AM;Norte;2019;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;27,3
+AL;Nordeste;2019;Homens;Branca;14 a 24 anos;Desocupada;12,4
+AM;Norte;2018;Homens;Preta ou parda;14 a 24 anos;Desocupada;11,5
+PR;Sul;2017;Mulheres;Branca;25 a 49 anos;Desocupada;25,6
+GO;Centro-Oeste;2019;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;24,6
+PR;Sul;2017;Mulheres;Branca;50 anos ou mais;Ocupada;22,9
+SC;Sul;2018;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;21,9
+MT;Centro-Oeste;2016;Mulheres;Branca;25 a 49 anos;Ocupada;18,4
+MA;Nordeste;2016;Mulheres;Branca;14 a 24 anos;Desocupada;22,9
+AP;Norte;2019;Homens;Preta ou parda;14 a 24 anos;Desocupada;7,7
+TO;Norte;2019;Mulheres;Branca;50 anos ou mais;Ocupada;22,9
+BA;Nordeste;2018;Homens;Branca;14 a 24 anos;Ocupada;10,3
+MT;Centro-Oeste;2017;Homens;Preta ou parda;14 a 24 anos;Ocupada;5,7
+SP;Sudeste;2018;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;23,9
+RN;Nordeste;2016;Mulheres;Branca;14 a 24 anos;Desocupada;20,0
+PA;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;18,7
+AM;Norte;2016;Homens;Branca;50 anos ou mais;Ocupada;14,2
+SE;Nordeste;2022;Homens;Preta ou parda;50 anos ou mais;Desocupada;15,0
+RO;Norte;2022;Homens;Branca;50 anos ou mais;Ocupada;13,2
+AP;Norte;2019;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;17,3
+AL;Nordeste;2022;Homens;Preta ou parda;50 anos ou mais;Desocupada;14,3
+PI;Nordeste;2017;Homens;Preta ou parda;25 a 49 anos;Ocupada;11,4
+SP;Sudeste;2022;Mulheres;Branca;25 a 49 anos;Ocupada;22,8
+RJ;Sudeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;25,1
+ES;Sudeste;2017;Homens;Preta ou parda;14 a 24 anos;Desocupada;6,6
+SE;Nordeste;2017;Homens;Preta ou parda;50 anos ou mais;Desocupada;14,0
+PA;Norte;2016;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;22,6
+DF;Centro-Oeste;2019;Homens;Preta ou parda;14 a 24 anos;Ocupada;5,6
+BA;Nordeste;2019;Homens;Branca;25 a 49 anos;Desocupada;14,0
+ES;Sudeste;2022;Homens;Branca;25 a 49 anos;Ocupada;9,8
+RR;Norte;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;20,3
+AL;Nordeste;2022;Homens;Preta ou parda;50 anos ou mais;Ocupada;13,2
+TO;Norte;2016;Mulheres;Branca;14 a 24 anos;Ocupada;19,6
+SP;Sudeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,5
+PB;Nordeste;2019;Mulheres;Branca;25 a 49 anos;Ocupada;20,1
+AC;Norte;2016;Homens;Branca;14 a 24 anos;Ocupada;9,5
+RS;Sul;2022;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,3
+PI;Nordeste;2022;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,1
+MS;Centro-Oeste;2018;Homens;Preta ou parda;50 anos ou mais;Desocupada;13,3
+PE;Nordeste;2022;Homens;Preta ou parda;50 anos ou mais;Desocupada;14,2
+AP;Norte;2018;Homens;Branca;14 a 24 anos;Desocupada;7,5
+RO;Norte;2022;Mulheres;Branca;50 anos ou mais;Desocupada;24,0
+PI;Nordeste;2016;Homens;Preta ou parda;14 a 24 anos;Ocupada;7,8
+PA;Norte;2017;Homens;Branca;14 a 24 anos;Ocupada;6,6
+SP;Sudeste;2016;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;24,7
+GO;Centro-Oeste;2018;Homens;Preta ou parda;14 a 24 anos;Ocupada;6,0
+PI;Nordeste;2022;Mulheres;Branca;14 a 24 anos;Desocupada;19,7
+AC;Norte;2017;Mulheres;Branca;50 anos ou mais;Ocupada;23,2
+GO;Centro-Oeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;21,7
+PR;Sul;2016;Homens;Branca;14 a 24 anos;Ocupada;9,3
+AC;Norte;2016;Mulheres;Branca;25 a 49 anos;Desocupada;23,4
+PR;Sul;2022;Homens;Branca;14 a 24 anos;Ocupada;8,1
+RO;Norte;2016;Homens;Branca;25 a 49 anos;Desocupada;13,8
+CE;Nordeste;2022;Mulheres;Branca;25 a 49 anos;Ocupada;21,1
+BA;Nordeste;2016;Homens;Branca;14 a 24 anos;Desocupada;10,8
+PR;Sul;2022;Homens;Branca;14 a 24 anos;Desocupada;10,5
+AL;Nordeste;2022;Homens;Preta ou parda;25 a 49 anos;Desocupada;12,6
+PR;Sul;2022;Homens;Branca;50 anos ou mais;Ocupada;13,0
+PB;Nordeste;2019;Homens;Preta ou parda;50 anos ou mais;Desocupada;13,4
+MT;Centro-Oeste;2018;Homens;Branca;25 a 49 anos;Desocupada;12,8
+ES;Sudeste;2019;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;26,1
+MA;Nordeste;2017;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;25,0
+RR;Norte;2019;Mulheres;Branca;25 a 49 anos;Desocupada;25,9
+MA;Nordeste;2018;Homens;Branca;14 a 24 anos;Ocupada;10,7
+PA;Norte;2017;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,3
+PR;Sul;2022;Mulheres;Branca;14 a 24 anos;Ocupada;18,0
+AM;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;19,6
+SE;Nordeste;2019;Homens;Preta ou parda;25 a 49 anos;Ocupada;10,2
+GO;Centro-Oeste;2018;Mulheres;Branca;50 anos ou mais;Desocupada;24,1
+MG;Sudeste;2022;Homens;Branca;50 anos ou mais;Desocupada;13,9
+PR;Sul;2016;Mulheres;Branca;25 a 49 anos;Ocupada;21,0
+RO;Norte;2022;Homens;Branca;14 a 24 anos;Ocupada;6,8
+PI;Nordeste;2016;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,8
+RO;Norte;2018;Homens;Preta ou parda;14 a 24 anos;Desocupada;9,9
+RJ;Sudeste;2018;Homens;Preta ou parda;14 a 24 anos;Desocupada;8,1
+AC;Norte;2022;Homens;Branca;25 a 49 anos;Ocupada;12,1
+GO;Centro-Oeste;2016;Mulheres;Branca;25 a 49 anos;Desocupada;24,6
+RN;Nordeste;2019;Mulheres;Branca;25 a 49 anos;Ocupada;22,5
+MG;Sudeste;2019;Homens;Branca;25 a 49 anos;Desocupada;13,2
+GO;Centro-Oeste;2022;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,8
+SC;Sul;2019;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;23,6
+RN;Nordeste;2016;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;25,5
+AC;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;20,0
+PE;Nordeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;24,2
+DF;Centro-Oeste;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,1
+RJ;Sudeste;2022;Homens;Branca;25 a 49 anos;Desocupada;12,1
+AP;Norte;2022;Mulheres;Branca;50 anos ou mais;Ocupada;20,1
+RJ;Sudeste;2016;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;26,8
+CE;Nordeste;2017;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,4
+SE;Nordeste;2019;Homens;Branca;14 a 24 anos;Ocupada;7,1
+AL;Nordeste;2019;Homens;Branca;50 anos ou mais;Desocupada;14,7
+RO;Norte;2022;Homens;Preta ou parda;14 a 24 anos;Desocupada;10,4
+TO;Norte;2019;Homens;Branca;14 a 24 anos;Ocupada;8,0
+MG;Sudeste;2022;Homens;Branca;50 anos ou mais;Ocupada;12,9
+RO;Norte;2019;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;23,3
+SC;Sul;2019;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;20,1
+RJ;Sudeste;2016;Homens;Preta ou parda;14 a 24 anos;Desocupada;10,1
+BA;Nordeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;21,8
+MS;Centro-Oeste;2017;Homens;Branca;14 a 24 anos;Ocupada;8,8
+CE;Nordeste;2018;Mulheres;Branca;25 a 49 anos;Desocupada;22,1
+BA;Nordeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;19,1
+TO;Norte;2022;Homens;Preta ou parda;50 anos ou mais;Desocupada;17,5
+RS;Sul;2019;Mulheres;Branca;25 a 49 anos;Desocupada;24,1
+PR;Sul;2019;Mulheres;Branca;25 a 49 anos;Ocupada;22,9
+SE;Nordeste;2018;Mulheres;Branca;25 a 49 anos;Ocupada;20,5
+AM;Norte;2016;Mulheres;Branca;25 a 49 anos;Desocupada;25,6
+SC;Sul;2018;Mulheres;Branca;14 a 24 anos;Ocupada;20,3
+RN;Nordeste;2016;Homens;Preta ou parda;14 a 24 anos;Ocupada;6,4
+RS;Sul;2017;Homens;Branca;25 a 49 anos;Desocupada;12,6
+PB;Nordeste;2018;Homens;Branca;14 a 24 anos;Desocupada;8,8
+ES;Sudeste;2022;Homens;Branca;14 a 24 anos;Desocupada;8,9
+RS;Sul;2018;Homens;Branca;50 anos ou mais;Desocupada;13,0
+ES;Sudeste;2018;Homens;Preta ou parda;50 anos ou mais;Desocupada;12,2
+PR;Sul;2019;Mulheres;Branca;50 anos ou mais;Desocupada;25,0
+MT;Centro-Oeste;2019;Homens;Preta ou parda;14 a 24 anos;Ocupada;5,9
+RS;Sul;2019;Mulheres;Branca;25 a 49 anos;Ocupada;20,1
+SP;Sudeste;2016;Mulheres;Branca;50 anos ou mais;Desocupada;26,8
+RO;Norte;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;24,9
+MA;Nordeste;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,6
+MS;Centro-Oeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;24,9
+MG;Sudeste;2022;Mulheres;Branca;50 anos ou mais;Desocupada;24,8
+GO;Centro-Oeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;17,5
+MA;Nordeste;2018;Homens;Branca;50 anos ou mais;Ocupada;13,2
+MG;Sudeste;2022;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,1
+SP;Sudeste;2018;Homens;Preta ou parda;25 a 49 anos;Ocupada;13,8
+MA;Nordeste;2019;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,8
+AM;Norte;2017;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,2
+SE;Nordeste;2022;Homens;Branca;14 a 24 anos;Desocupada;8,2
+RS;Sul;2017;Mulheres;Branca;25 a 49 anos;Desocupada;24,8
+SP;Sudeste;2022;Homens;Branca;25 a 49 anos;Ocupada;12,1
+RR;Norte;2016;Mulheres;Branca;14 a 24 anos;Ocupada;19,9
+MA;Nordeste;2022;Mulheres;Branca;25 a 49 anos;Desocupada;24,2
+AP;Norte;2019;Homens;Branca;50 anos ou mais;Desocupada;10,9
+DF;Centro-Oeste;2016;Homens;Branca;50 anos ou mais;Desocupada;13,7
+MT;Centro-Oeste;2017;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,0
+AM;Norte;2019;Homens;Branca;14 a 24 anos;Desocupada;8,7
+TO;Norte;2018;Homens;Preta ou parda;50 anos ou mais;Desocupada;15,0
+AP;Norte;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,9
+RR;Norte;2022;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;19,7
+BA;Nordeste;2018;Homens;Preta ou parda;14 a 24 anos;Ocupada;9,3
+TO;Norte;2018;Mulheres;Branca;50 anos ou mais;Ocupada;21,3
+PB;Nordeste;2019;Homens;Branca;14 a 24 anos;Ocupada;9,2
+RO;Norte;2016;Homens;Branca;25 a 49 anos;Ocupada;9,4
+PB;Nordeste;2022;Homens;Branca;50 anos ou mais;Desocupada;13,0
+RN;Nordeste;2016;Homens;Branca;50 anos ou mais;Ocupada;8,2
+AC;Norte;2016;Mulheres;Branca;50 anos ou mais;Ocupada;21,6
+PI;Nordeste;2022;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,3
+PI;Nordeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;19,0
+MG;Sudeste;2022;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;24,4
+AP;Norte;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,9
+GO;Centro-Oeste;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;23,8
+RN;Nordeste;2017;Homens;Branca;14 a 24 anos;Ocupada;6,6
+RR;Norte;2022;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;27,4
+MA;Nordeste;2019;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;22,6
+AP;Norte;2018;Mulheres;Branca;14 a 24 anos;Desocupada;21,1
+SP;Sudeste;2018;Mulheres;Branca;25 a 49 anos;Ocupada;23,0
+GO;Centro-Oeste;2019;Mulheres;Branca;50 anos ou mais;Desocupada;23,1
+MS;Centro-Oeste;2019;Homens;Branca;50 anos ou mais;Desocupada;12,6
+PE;Nordeste;2018;Homens;Preta ou parda;25 a 49 anos;Ocupada;8,3
+RS;Sul;2016;Mulheres;Branca;25 a 49 anos;Ocupada;20,7
+CE;Nordeste;2018;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,6
+MG;Sudeste;2016;Homens;Preta ou parda;25 a 49 anos;Desocupada;14,7
+TO;Norte;2018;Mulheres;Branca;25 a 49 anos;Desocupada;25,2
+AL;Nordeste;2019;Homens;Branca;25 a 49 anos;Desocupada;14,4
+AP;Norte;2022;Homens;Branca;14 a 24 anos;Desocupada;7,3
+PI;Nordeste;2019;Homens;Branca;50 anos ou mais;Desocupada;15,5
+PA;Norte;2017;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,1
+PA;Norte;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;10,6
+SP;Sudeste;2019;Mulheres;Branca;25 a 49 anos;Desocupada;25,0
+GO;Centro-Oeste;2017;Mulheres;Branca;50 anos ou mais;Ocupada;20,1
+RO;Norte;2018;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,6
+DF;Centro-Oeste;2022;Mulheres;Branca;14 a 24 anos;Ocupada;17,3
+AC;Norte;2022;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;28,0
+BA;Nordeste;2018;Mulheres;Branca;25 a 49 anos;Ocupada;23,0
+SE;Nordeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;24,9
+ES;Sudeste;2019;Mulheres;Branca;14 a 24 anos;Desocupada;20,5
+BA;Nordeste;2018;Homens;Branca;14 a 24 anos;Desocupada;12,0
+SC;Sul;2022;Homens;Preta ou parda;14 a 24 anos;Ocupada;8,4
+PI;Nordeste;2018;Homens;Branca;50 anos ou mais;Desocupada;13,4
+AP;Norte;2016;Homens;Branca;25 a 49 anos;Ocupada;8,5
+MT;Centro-Oeste;2018;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,1
+BA;Nordeste;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,0
+DF;Centro-Oeste;2022;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,3
+TO;Norte;2017;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;24,4
+RO;Norte;2022;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,5
+RN;Nordeste;2017;Homens;Branca;50 anos ou mais;Desocupada;10,7
+TO;Norte;2019;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,3
+PE;Nordeste;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,5
+SE;Nordeste;2018;Mulheres;Branca;50 anos ou mais;Ocupada;21,3
+TO;Norte;2022;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,0
+PR;Sul;2019;Homens;Preta ou parda;14 a 24 anos;Desocupada;8,0
+DF;Centro-Oeste;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,3
+RO;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,1
+RN;Nordeste;2017;Homens;Branca;50 anos ou mais;Ocupada;11,5
+MT;Centro-Oeste;2018;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;24,6
+GO;Centro-Oeste;2022;Homens;Preta ou parda;50 anos ou mais;Desocupada;12,3
+MG;Sudeste;2018;Mulheres;Branca;14 a 24 anos;Desocupada;24,4
+PI;Nordeste;2017;Homens;Branca;14 a 24 anos;Desocupada;9,3
+AP;Norte;2018;Homens;Preta ou parda;14 a 24 anos;Ocupada;7,8
+PB;Nordeste;2022;Homens;Preta ou parda;25 a 49 anos;Ocupada;9,9
+MG;Sudeste;2016;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,9
+RN;Nordeste;2016;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,0
+AL;Nordeste;2022;Mulheres;Branca;14 a 24 anos;Ocupada;19,1
+PE;Nordeste;2017;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;27,6
+TO;Norte;2018;Mulheres;Branca;50 anos ou mais;Desocupada;26,0
+AM;Norte;2016;Homens;Branca;14 a 24 anos;Desocupada;8,7
+MT;Centro-Oeste;2022;Mulheres;Branca;25 a 49 anos;Desocupada;24,5
+RN;Nordeste;2016;Homens;Preta ou parda;50 anos ou mais;Desocupada;12,6
+AP;Norte;2018;Mulheres;Branca;25 a 49 anos;Desocupada;22,4
+RO;Norte;2018;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;21,5
+RJ;Sudeste;2019;Homens;Branca;14 a 24 anos;Ocupada;7,4
+AL;Nordeste;2016;Homens;Branca;25 a 49 anos;Desocupada;13,6
+AC;Norte;2017;Homens;Branca;50 anos ou mais;Desocupada;13,3
+PA;Norte;2017;Homens;Preta ou parda;14 a 24 anos;Desocupada;9,1
+PA;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,6
+PR;Sul;2017;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,5
+MT;Centro-Oeste;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;24,5
+ES;Sudeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;16,0
+SC;Sul;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;27,7
+DF;Centro-Oeste;2019;Homens;Branca;50 anos ou mais;Desocupada;14,3
+MA;Nordeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;18,8
+MA;Nordeste;2022;Mulheres;Branca;14 a 24 anos;Ocupada;20,1
+SE;Nordeste;2017;Homens;Preta ou parda;50 anos ou mais;Ocupada;12,9
+AM;Norte;2022;Mulheres;Branca;50 anos ou mais;Ocupada;22,2
+RN;Nordeste;2022;Homens;Preta ou parda;25 a 49 anos;Ocupada;8,0
+AC;Norte;2018;Mulheres;Branca;25 a 49 anos;Ocupada;22,3
+TO;Norte;2017;Mulheres;Branca;50 anos ou mais;Ocupada;23,9
+AP;Norte;2022;Homens;Branca;25 a 49 anos;Desocupada;11,9
+AM;Norte;2022;Homens;Branca;25 a 49 anos;Desocupada;14,4
+RO;Norte;2017;Homens;Branca;14 a 24 anos;Ocupada;7,1
+PE;Nordeste;2018;Homens;Branca;25 a 49 anos;Desocupada;11,8
+MG;Sudeste;2017;Mulheres;Branca;14 a 24 anos;Desocupada;22,8
+CE;Nordeste;2016;Homens;Preta ou parda;50 anos ou mais;Desocupada;12,9
+GO;Centro-Oeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;11,3
+MA;Nordeste;2018;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;23,5
+RS;Sul;2017;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;22,9
+BA;Nordeste;2017;Homens;Preta ou parda;25 a 49 anos;Ocupada;10,5
+MT;Centro-Oeste;2019;Homens;Branca;25 a 49 anos;Desocupada;13,0
+TO;Norte;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;25,1
+SP;Sudeste;2018;Homens;Preta ou parda;14 a 24 anos;Ocupada;9,3
+GO;Centro-Oeste;2017;Homens;Preta ou parda;50 anos ou mais;Desocupada;10,9
+PE;Nordeste;2022;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;23,0
+PB;Nordeste;2019;Homens;Preta ou parda;14 a 24 anos;Ocupada;7,3
+ES;Sudeste;2017;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;26,1
+DF;Centro-Oeste;2018;Homens;Preta ou parda;14 a 24 anos;Desocupada;8,2
+RO;Norte;2017;Homens;Branca;50 anos ou mais;Desocupada;15,0
+SP;Sudeste;2016;Homens;Preta ou parda;14 a 24 anos;Ocupada;10,2
+PB;Nordeste;2016;Mulheres;Branca;25 a 49 anos;Ocupada;20,6
+SC;Sul;2016;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;23,2
+RJ;Sudeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;19,1
+TO;Norte;2018;Homens;Branca;25 a 49 anos;Desocupada;12,3
+RJ;Sudeste;2017;Homens;Branca;50 anos ou mais;Ocupada;12,8
+ES;Sudeste;2016;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,5
+RR;Norte;2016;Mulheres;Branca;25 a 49 anos;Ocupada;20,5
+CE;Nordeste;2019;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;25,8
+MT;Centro-Oeste;2018;Homens;Preta ou parda;50 anos ou mais;Ocupada;10,7
+SC;Sul;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;21,1
+SE;Nordeste;2022;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;20,8
+CE;Nordeste;2018;Mulheres;Branca;14 a 24 anos;Ocupada;17,8
+RS;Sul;2022;Homens;Preta ou parda;50 anos ou mais;Ocupada;12,1
+MT;Centro-Oeste;2019;Homens;Branca;50 anos ou mais;Ocupada;13,0
+RO;Norte;2016;Mulheres;Branca;14 a 24 anos;Desocupada;21,2
+RN;Nordeste;2017;Homens;Branca;25 a 49 anos;Desocupada;10,6
+RN;Nordeste;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;23,3
+RJ;Sudeste;2018;Homens;Branca;14 a 24 anos;Desocupada;8,7
+SC;Sul;2022;Homens;Preta ou parda;25 a 49 anos;Ocupada;14,1
+PI;Nordeste;2022;Mulheres;Branca;50 anos ou mais;Desocupada;23,6
+AL;Nordeste;2016;Homens;Branca;25 a 49 anos;Ocupada;12,0
+SE;Nordeste;2018;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;22,1
+PI;Nordeste;2022;Homens;Preta ou parda;14 a 24 anos;Desocupada;10,8
+RS;Sul;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;11,5
+TO;Norte;2017;Homens;Branca;50 anos ou mais;Desocupada;12,6
+ES;Sudeste;2016;Mulheres;Branca;25 a 49 anos;Desocupada;22,9
+RO;Norte;2018;Homens;Branca;14 a 24 anos;Ocupada;7,9
+PB;Nordeste;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,1
+AM;Norte;2019;Mulheres;Branca;14 a 24 anos;Ocupada;17,2
+BA;Nordeste;2019;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;28,4
+DF;Centro-Oeste;2018;Homens;Preta ou parda;50 anos ou mais;Ocupada;11,0
+RN;Nordeste;2018;Mulheres;Branca;25 a 49 anos;Ocupada;19,0
+MS;Centro-Oeste;2017;Mulheres;Branca;14 a 24 anos;Desocupada;23,7
+RR;Norte;2019;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;19,9
+MT;Centro-Oeste;2016;Homens;Preta ou parda;25 a 49 anos;Desocupada;13,4
+SE;Nordeste;2018;Homens;Branca;50 anos ou mais;Desocupada;14,5
+RN;Nordeste;2022;Homens;Branca;50 anos ou mais;Ocupada;11,0
+RJ;Sudeste;2022;Mulheres;Preta ou parda;50 anos ou mais;Desocupada;27,3
+PE;Nordeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;10,8
+MS;Centro-Oeste;2022;Homens;Branca;14 a 24 anos;Ocupada;11,5
+AC;Norte;2019;Homens;Branca;25 a 49 anos;Desocupada;13,6
+SE;Nordeste;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;24,5
+RR;Norte;2022;Homens;Branca;50 anos ou mais;Desocupada;13,6
+SP;Sudeste;2016;Homens;Branca;25 a 49 anos;Desocupada;13,1
+AC;Norte;2017;Homens;Branca;50 anos ou mais;Ocupada;13,0
+MT;Centro-Oeste;2018;Mulheres;Branca;25 a 49 anos;Desocupada;25,0
+TO;Norte;2019;Homens;Branca;50 anos ou mais;Ocupada;12,9
+PB;Nordeste;2022;Mulheres;Branca;50 anos ou mais;Desocupada;22,4
+ES;Sudeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Desocupada;21,7
+PR;Sul;2022;Homens;Branca;25 a 49 anos;Desocupada;11,9
+SP;Sudeste;2016;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;27,3
+AC;Norte;2016;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;25,1
+RO;Norte;2022;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;18,4
+MS;Centro-Oeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;14,1
+AP;Norte;2022;Mulheres;Preta ou parda;50 anos ou mais;Ocupada;22,6
+AM;Norte;2017;Homens;Branca;14 a 24 anos;Desocupada;8,6
+AP;Norte;2016;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;21,2
+RR;Norte;2022;Mulheres;Branca;50 anos ou mais;Ocupada;21,5
+PB;Nordeste;2019;Homens;Preta ou parda;25 a 49 anos;Desocupada;10,5
+PR;Sul;2017;Homens;Branca;25 a 49 anos;Desocupada;12,0
+MA;Nordeste;2017;Homens;Preta ou parda;50 anos ou mais;Ocupada;13,1
+RO;Norte;2016;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;20,3
+PI;Nordeste;2018;Homens;Branca;25 a 49 anos;Desocupada;13,6
+MT;Centro-Oeste;2022;Homens;Preta ou parda;25 a 49 anos;Ocupada;10,4
+TO;Norte;2018;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;20,0
+PI;Nordeste;2018;Homens;Preta ou parda;50 anos ou mais;Desocupada;13,7
+MT;Centro-Oeste;2016;Homens;Preta ou parda;25 a 49 anos;Ocupada;11,1
+MT;Centro-Oeste;2018;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;26,2
+GO;Centro-Oeste;2019;Mulheres;Preta ou parda;25 a 49 anos;Desocupada;25,2
+PA;Norte;2019;Mulheres;Preta ou parda;25 a 49 anos;Ocupada;21,0
+RS;Sul;2019;Homens;Preta ou parda;50 anos ou mais;Ocupada;12,6
+DF;Centro-Oeste;2022;Mulheres;Branca;25 a 49 anos;Desocupada;23,8
+ES;Sudeste;2019;Mulheres;Branca;14 a 24 anos;Ocupada;15,1
+MG;Sudeste;2017;Mulheres;Branca;25 a 49 anos;Ocupada;20,1
+MA;Nordeste;2017;Homens;Preta ou parda;50 anos ou mais;Desocupada;16,4
+RN;Nordeste;2019;Homens;Branca;25 a 49 anos;Ocupada;9,8
+CE;Nordeste;2019;Homens;Preta ou parda;14 a 24 anos;Desocupada;10,3
+MG;Sudeste;2016;Homens;Branca;25 a 49 anos;Ocupada;9,4
+RJ;Sudeste;2022;Mulheres;Branca;50 anos ou mais;Desocupada;24,3
+MS;Centro-Oeste;2016;Mulheres;Branca;14 a 24 anos;Desocupada;24,8
+PI;Nordeste;2017;Homens;Preta ou parda;14 a 24 anos;Desocupada;7,8
+MS;Centro-Oeste;2019;Homens;Branca;50 anos ou mais;Ocupada;12,7
+MT;Centro-Oeste;2019;Mulheres;Branca;25 a 49 anos;Ocupada;...
+ES;Sudeste;2017;Mulheres;Preta ou parda;14 a 24 anos;Ocupada;17,2
